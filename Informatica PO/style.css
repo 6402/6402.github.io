@@ -1,0 +1,46 @@
+
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+  }
+
+ a {
+   background-color: #FFFFFF;
+   color: #000000
+ }
+
+ p {
+   font-family:Anton;
+   font-size:20px;
+   color: #FFFFFF
+ }
+
+ h3 {
+   font-family:Anton;
+   font-size:20px;
+   color: #FFFFFF
+ }
+
+ h1 {
+   font-family:Anton;
+   font-size:20px;
+   color: #FFFFFF
+ }
+
+ h5 {
+   font-family:Anton;
+   font-size:20px;
+   color: #FFFFFF
+ }
+
+ caption {
+   font-family:Anton;
+   font-size:20px;
+   color: #FFFFFF
+ }
+
+ td {
+   font-family:Anton;
+   font-size:20px;
+
+ }
